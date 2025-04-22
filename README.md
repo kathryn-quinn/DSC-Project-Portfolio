@@ -17,9 +17,7 @@ To analyze the business marketing strategies in the English Premier League, I co
 
 By examining these factors, I assessed how they influence business marketing strategies and, in turn, impact the overall performance and financial health of the league. This multifaceted approach allowed me to develop a thorough understanding of the interplay between marketing strategies and the Premier League's success.
 
-# ADVANCED TOPICS
-
-Variables:
+# Variables
 
 - Club: Names of the EPL clubs.
 
@@ -79,7 +77,15 @@ Variables:
 
 - 2023 % of capacity: Percentage of stadium capacity utilized in 2023.
 
-Points
+- Season: The football season.
+
+- Matchday (£m): Matchday revenue in millions.
+
+- Broadcasting (£m): Broadcasting revenue in millions.
+
+- Commercial (£m): Commercial revenue in millions.
+
+# ADVANCED LIST & POINTS
 
 Linear Model (0.5):
 
