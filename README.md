@@ -95,6 +95,7 @@ What to Compare: The model compares the relationship between wage costs and oper
 ________________________
 
 Random Forest (1):
+
 Why: Random Forest is an ensemble learning method that provides high accuracy and robustness by combining multiple decision trees. It is particularly useful for understanding feature importance and handling complex interactions between features.
 
 What to Compare: The model compares the importance of different features in predicting revenue and fan engagement. The feature importance plot helps identify which factors are most influential. The confusion matrix provides a comparison of the model's predictions against actual outcomes.
